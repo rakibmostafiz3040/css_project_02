@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+    
+  }
+  body{
+    background-color: bisque;
+  }
+  
+  .login-box{
+
+background-color: lightgray;
+width: 20%;
+border-radius: 10px;
+  }
+  .login-box h2{
+    text-align: center;
+    margin: 10,10,36,10,;
+    padding-top: 5%;
+  }
+
+  .login-box .user-box input {
+    
+    padding: left 30px;;
+    
+    
+    margin-bottom: 3px;
+    margin-left: 10%;
+    border: none;
+    border-bottom: 1px solid red;
+  }
+
+  .login-box .user-box label {
+    
+    
+    color: rgb(0, 13, 255);
+  }
+  .waz{
+    width:560;
+    height:315;
+  }
+  .map{
+    width: 100%;
+    height: 600px;
+  }
+  
